@@ -1,0 +1,50 @@
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\bin\Debug\net6.0-windows\Proj02.exe
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\bin\Debug\net6.0-windows\Proj02.deps.json
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\bin\Debug\net6.0-windows\Proj02.runtimeconfig.json
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\bin\Debug\net6.0-windows\Proj02.dll
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\bin\Debug\net6.0-windows\Proj02.pdb
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.csproj.AssemblyReference.cache
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.Form1.resources
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.csproj.GenerateResource.cache
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.GeneratedMSBuildEditorConfig.editorconfig
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.AssemblyInfoInputs.cache
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.AssemblyInfo.cs
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.csproj.CoreCompileInputs.cache
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.dll
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\obj\Debug\net6.0-windows\refint\Proj02.dll
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.pdb
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.genruntimeconfig.cache
+F:\Compartilhamento Aluno\Aulas_Vânia\2o.Sem\Prog2A\Proj02\Proj02\obj\Debug\net6.0-windows\ref\Proj02.dll
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\bin\Debug\net6.0-windows\Proj02.exe
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\bin\Debug\net6.0-windows\Proj02.deps.json
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\bin\Debug\net6.0-windows\Proj02.runtimeconfig.json
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\bin\Debug\net6.0-windows\Proj02.dll
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\bin\Debug\net6.0-windows\Proj02.pdb
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.csproj.AssemblyReference.cache
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.Form1.resources
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.csproj.GenerateResource.cache
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.AssemblyInfoInputs.cache
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.AssemblyInfo.cs
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.csproj.CoreCompileInputs.cache
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.dll
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\obj\Debug\net6.0-windows\refint\Proj02.dll
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.pdb
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\obj\Debug\net6.0-windows\Proj02.genruntimeconfig.cache
+D:\Faculdade\4° Periodo\Prog 2\Codigos Vania\Proj02\Proj02\obj\Debug\net6.0-windows\ref\Proj02.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\bin\Debug\net6.0-windows\Proj02.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\bin\Debug\net6.0-windows\Proj02.deps.json
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\bin\Debug\net6.0-windows\Proj02.runtimeconfig.json
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\bin\Debug\net6.0-windows\Proj02.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\bin\Debug\net6.0-windows\Proj02.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\obj\Debug\net6.0-windows\Proj02.Form1.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\obj\Debug\net6.0-windows\Proj02.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\obj\Debug\net6.0-windows\Proj02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\obj\Debug\net6.0-windows\Proj02.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\obj\Debug\net6.0-windows\Proj02.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\obj\Debug\net6.0-windows\Proj02.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\obj\Debug\net6.0-windows\Proj02.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\obj\Debug\net6.0-windows\refint\Proj02.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\obj\Debug\net6.0-windows\Proj02.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\obj\Debug\net6.0-windows\Proj02.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\Codigos Vania\Calculadora\Proj02\obj\Debug\net6.0-windows\ref\Proj02.dll
