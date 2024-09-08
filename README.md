@@ -1,2 +1,2 @@
 # Calculadora
-É praticamente tradição que todo programador tenha uma calculadora simples em seu Github, eis aqui a minha.
+Uma calculadora simples feita em Widowns Forms como trabalho academico.
